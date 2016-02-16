@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StaffForm()
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ updateStaffs()
+comment3.params=tF
+comment3.target=void\ changeFields(boolean)
+comment4.params=tF
+comment4.target=void\ onAndOffButtons(boolean)
+numComments=5
